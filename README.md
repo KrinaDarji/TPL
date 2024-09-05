@@ -12,6 +12,7 @@ This demo covers all the topics which can help to understand the basic of task p
 7) Task.Factory and TaskCreationOptions
 8) Task Schedular
 9) CancellationToken and Task Status
+10) Aggregating Exception 
 # Prerequisites
 Before running this project, ensure you have
 .Net8 SDK installed
